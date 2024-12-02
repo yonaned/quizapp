@@ -32,7 +32,10 @@ body {
     min-height: 100vh;
     max-width: 400px;
     margin: 0;
-   
+    user-select: none; /* Non-standard */
+    -moz-user-select: none; /* Firefox */
+    -webkit-user-select: none; /* Safari */
+    -ms-user-select: none; /* Internet Explorer/Edge */
 }
 
 .frosted_glass {
