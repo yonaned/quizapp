@@ -1,0 +1,25 @@
+[
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+            {"label": "A", "text": "Earth"},
+            {"label": "B", "text": "Jupiter"},
+            {"label": "C", "text": "Mars"},
+            {"label": "D", "text": "Saturn"}
+        ],
+        "correct": "B",
+        "explanation": "Jupiter is the largest planet in our solar system, known for its Great Red Spot and many moons."
+    },
+
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+            {"label": "A", "text": "Earth"},
+            {"label": "B", "text": "Jupiter"},
+            {"label": "C", "text": "Mars"},
+            {"label": "D", "text": "Saturn"}
+        ],
+        "correct": "B",
+        "explanation": "Jupiter is the largest planet in our solar system, known for its Great Red Spot and many moons."
+    }
+]

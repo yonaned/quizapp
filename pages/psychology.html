@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psychology</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <link rel="icon" href="assets/favicon.png" type="image/png">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/question.css">
+    <link rel="stylesheet" href="qtest.css">
+
+
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <nav>
+        <img src="../assets/gradients/p-gradient.png" alt="Addis Ababa University Logo">
+        <div class="heading" >
+            <h2 >Psychology</h2>
+            <!-- <a href="question_test.html"> open test</a> -->
+          
+        </div>
+    </nav>
+
+
+
+
+
+
+
+
+
+
+    <!-- Main Content chapter 1 -->
+    <div class="container unit1">
+        <div class="top1 frosted_glass chapter_point_header">
+            <div class="chapter_point"> <div class="chapter_name">Chapter 1 & 2</div> General Psychology</div>
+        </div>
+
+
+        <div class="quiz-container frosted_glass" style="padding: 20px; width: 100%;">
+            <div id="questions-container"></div>
+            <button id="reset-button" style="display: none;" onclick="resetQuiz()">Reset Quiz</button>
+        </div>
+
+    </div>
+
+    <div class="container unit2" style="display: none;">
+
+
+
+
+
+        
+
+
+
+<!-- dont touch the code below -->
+
+        <div class="hiddenvisiblity" style="display: none; max-height: 2px;"> 
+            <div class="top1 frosted_glass chapter_point_header">
+                <div class="chapter_point"> <div class="chapter_name">Chapter 2</div> SENSATION AND PERCEPTION</div>
+            </div>
+    
+            <div class="top1 frosted_glass">
+    
+    
+    
+                <div class="question_container">
+    
+                    <div class="gap_giver">
+    
+                    </div>
+    
+                    <div class="question_number_text">
+                        <div class="question_number">1. </div>
+                        <div class="question_text">What is "cognitive dissonance"?</div>
+                    </div>
+    
+    
+    
+                    <div class="question_options">
+                        <div class="option answer_indicator_green" id="option_1">Group conformity</div>
+                        <div class="option answer_indicator_red  " id="option_2">Learning by observation</div>
+                        <div class="option" id="option_3">Mental discomfort from conflicting beliefs</div>
+                        <div class="option" id="option_4">Empathy</div>
+                    </div>
+    
+                    <div class="explanation">
+                        <div class="explanation_image"><img src="../assets/gradients/b-gradient.png" alt=""></div>
+                        <div class="explanation_text">
+                            Cognitive dissonance is the discomfort felt when holding contradictory beliefs, often leading
+                            people to change one belief to reduce the conflict.
+                        </div>
+                    </div>
+    
+                    <div class="question_separator"></div>
+                </div>
+    
+    
+            </div>
+
+        </div>
+
+        <!-- dont touch the code below -->
+        
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Chapter oppenner -->
+
+    <div class="chapter_holder unit1" style="display: none;">
+        <div class="menu_icon frosted_glass">
+            <img src="../assets/icons/Menu_icon.png">
+        </div>
+
+        <div class="chapter" >
+            <div class="chapter_1  frosted_glass chapter_active_color ">
+                <p>Chapter 1</p>
+            </div>
+
+            <div class="chapter_2 frosted_glass">
+                <p>Chapter 2</p>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <!-- Chapter opnner end -->
+
+
+
+
+
+    <!-- Footer -->
+    <footer id="footer" class="footer fcontainer">
+        <div class="footer_content frosted_glass">
+            <div class="home_icon" id="home_icon">
+                <img src="../assets/icons/Home-outline.png" alt="Home Icon">
+            </div>
+            <div class="psychology_icon" id="psychology_icon">
+                <img src="../assets/icons/Psychology.png" alt="Psychology Icon">
+            </div>
+            <div class="history_icon" id="history_icon">
+                <img src="../assets/icons/History-outline.png" alt="History Icon">
+            </div>
+            <div class="about_icon" id="about_icon">
+                <img src="../assets/icons/Info-outline.png" alt="About Icon">
+            </div>
+        </div>
+    </footer>
+</body>
+<script src="../js/main.js"></script>
+<script src="in_page_navigator.js"></script>
+<script src="question_logic.js"></script>
+
+
+
+
+
+<script>
+    let questions; // To store the fetched questions
+
+    // Load questions from external JSON file
+    fetch('questions.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            questions = data; // Store questions for later use
+            displayQuestions(questions);
+        })
+        .catch(error => console.error('Error loading questions:', error));
+
+    function displayQuestions(questions) {
+        const questionsContainer = document.getElementById('questions-container');
+        questionsContainer.innerHTML = ''; // Clear previous content
+
+        questions.forEach((currentQuestion, index) => {
+            const questionDiv = document.createElement('div');
+            questionDiv.innerHTML = `<div class="question-index">Question ${index + 1}</div>
+                                    <h2 class="hquestion-index">${currentQuestion.question}</h2>
+                                    <div class="options"></div>
+                                    <button class="explanation-button" id="explanation-button-${index}" style="display: none;" onclick="toggleExplanation(${index})">Show Explanation</button>
+                                    <div class="explanation" id="explanation-${index}">${currentQuestion.explanation}</div>`;
+            const optionsContainer = questionDiv.querySelector('.options');
+
+            currentQuestion.options.forEach(option => {
+                const optionDiv = document.createElement('div');
+                optionDiv.className = 'option';
+                optionDiv.onclick = () => checkAnswer(option.label, currentQuestion.correct, optionDiv, index);
+                optionDiv.innerHTML = `<input type="radio" name="answer${index}" value="${option.label}"> ${option.label}) ${option.text}`;
+                optionsContainer.appendChild(optionDiv);
+            });
+
+            questionsContainer.appendChild(questionDiv);
+
+            // Add a horizontal separator after each question
+            const hr = document.createElement('hr');
+            questionsContainer.appendChild(hr);
+        });
+
+        // Show the reset button after displaying questions
+        document.getElementById('reset-button').style.display = 'block';
+    }
+
+    function checkAnswer(selectedLabel, correctAnswer, selectedOption, index) {
+        const options = selectedOption.parentElement.children; // Get options of the current question
+
+        // Reset all options
+        Array.from(options).forEach(opt => {
+            opt.classList.remove('correct', 'incorrect');
+        });
+
+        // Highlight the selected option
+        if (selectedLabel === correctAnswer) {
+            selectedOption.classList.add('correct');
+        } else {
+            selectedOption.classList.add('incorrect');
+            const correctOption = Array.from(options).find(opt => opt.textContent.includes(correctAnswer));
+            if (correctOption) {
+                correctOption.classList.add('correct');
+            }
+        }
+
+        // Disable further clicks
+        Array.from(options).forEach(opt => {
+            opt.style.pointerEvents = 'none'; // Disable pointer events
+        });
+
+        // Show the explanation button for the current question
+        document.getElementById(`explanation-button-${index}`).style.display = 'block';
+    }
+
+    function toggleExplanation(index) {
+        const explanation = document.getElementById(`explanation-${index}`);
+        const button = document.getElementById(`explanation-button-${index}`);
+        
+        // Toggle explanation visibility
+        if (explanation.style.display === 'none' || explanation.style.display === '') {
+            explanation.style.display = 'block';
+            button.textContent = 'Hide Explanation'; // Change button text
+        } else {
+            explanation.style.display = 'none';
+            button.textContent = 'Show Explanation'; // Revert button text
+        }
+    }
+
+    function resetQuiz() {
+        const questionsContainer = document.getElementById('questions-container');
+        questionsContainer.innerHTML = ''; // Clear current questions
+        document.getElementById('reset-button').style.display = 'none'; // Hide reset button
+        displayQuestions(questions); // Reload questions
+    }
+
+</script>
+<link rel="stylesheet" href="qtest.css">
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <link rel="stylesheet" href="qtest.css">
+</head>
+<body>
+
+<div class="quiz-container">
+    <h2>Quiz Questions</h2>
+    <div id="questions-container"></div>
+    <button id="reset-button" style="display: none;" onclick="resetQuiz()">Reset Quiz</button>
+</div>
+
+<script>
+    let questions; // To store the fetched questions
+
+    // Load questions from external JSON file
+    fetch('questions.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return response.json();
+        })
+        .then(data => {
+            questions = data; // Store questions for later use
+            displayQuestions(questions);
+        })
+        .catch(error => console.error('Error loading questions:', error));
+
+    function displayQuestions(questions) {
+        const questionsContainer = document.getElementById('questions-container');
+        questionsContainer.innerHTML = ''; // Clear previous content
+
+        questions.forEach((currentQuestion, index) => {
+            const questionDiv = document.createElement('div');
+            questionDiv.innerHTML = `<div class="question-index">Question ${index + 1}</div>
+                                    <h2>${currentQuestion.question}</h2>
+                                    <div class="options"></div>
+                                    <button class="explanation-button" id="explanation-button-${index}" style="display: none;" onclick="toggleExplanation(${index})">Show Explanation</button>
+                                    <div class="explanation" id="explanation-${index}">${currentQuestion.explanation}</div>`;
+            const optionsContainer = questionDiv.querySelector('.options');
+
+            currentQuestion.options.forEach(option => {
+                const optionDiv = document.createElement('div');
+                optionDiv.className = 'option';
+                optionDiv.onclick = () => checkAnswer(option.label, currentQuestion.correct, optionDiv, index);
+                optionDiv.innerHTML = `<input type="radio" name="answer${index}" value="${option.label}"> ${option.label}) ${option.text}`;
+                optionsContainer.appendChild(optionDiv);
+            });
+
+            questionsContainer.appendChild(questionDiv);
+
+            // Add a horizontal separator after each question
+            const hr = document.createElement('hr');
+            questionsContainer.appendChild(hr);
+        });
+
+        // Show the reset button after displaying questions
+        document.getElementById('reset-button').style.display = 'block';
+    }
+
+    function checkAnswer(selectedLabel, correctAnswer, selectedOption, index) {
+        const options = selectedOption.parentElement.children; // Get options of the current question
+
+        // Reset all options
+        Array.from(options).forEach(opt => {
+            opt.classList.remove('correct', 'incorrect');
+        });
+
+        // Highlight the selected option
+        if (selectedLabel === correctAnswer) {
+            selectedOption.classList.add('correct');
+        } else {
+            selectedOption.classList.add('incorrect');
+            const correctOption = Array.from(options).find(opt => opt.textContent.includes(correctAnswer));
+            if (correctOption) {
+                correctOption.classList.add('correct');
+            }
+        }
+
+        // Disable further clicks
+        Array.from(options).forEach(opt => {
+            opt.style.pointerEvents = 'none'; // Disable pointer events
+        });
+
+        // Show the explanation button for the current question
+        document.getElementById(`explanation-button-${index}`).style.display = 'block';
+    }
+
+    function toggleExplanation(index) {
+        const explanation = document.getElementById(`explanation-${index}`);
+        const button = document.getElementById(`explanation-button-${index}`);
+        
+        // Toggle explanation visibility
+        if (explanation.style.display === 'none' || explanation.style.display === '') {
+            explanation.style.display = 'block';
+            button.textContent = 'Hide Explanation'; // Change button text
+        } else {
+            explanation.style.display = 'none';
+            button.textContent = 'Show Explanation'; // Revert button text
+        }
+    }
+
+    function resetQuiz() {
+        const questionsContainer = document.getElementById('questions-container');
+        questionsContainer.innerHTML = ''; // Clear current questions
+        document.getElementById('reset-button').style.display = 'none'; // Hide reset button
+        displayQuestions(questions); // Reload questions
+    }
+
+</script>
+
+</body>
+</html>

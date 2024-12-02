@@ -1,0 +1,95 @@
+:root {
+    --text-color: #ffffff74;
+    --grey: #A9AFAF;
+    --icon-green: #41C299;
+    --red-dark: #443331;
+    --red-light: #F35555;
+    --green-light: #0FF6B0;
+    --green-dark: #264C44;
+    --body-gradient: linear-gradient(148deg, rgba(25, 51, 48, 1) 0%, rgba(14, 30, 30, 1) 100%);
+}
+
+
+nav {
+    border-radius: 0px 0px 20px 20px;
+    gap: 20px;
+}
+
+.container .frosted_glass {
+    padding: 20px 18px;
+}
+
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.chapter_holder{
+    /* background-color: var(--green-dark); */
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: right;
+    align-items: center;
+    height: 70px;
+    position: fixed;
+    bottom: 120px;    ;
+    right: 20px;
+    width: 100%;
+   
+}
+
+.chapter_holder .menu_icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 67px;
+    height: 67px;
+    border-radius: 100%;
+
+}
+
+.chapter_holder .menu_icon img{
+    width: 70%;
+    height: 70%;
+}
+
+.chapter_holder .chapter{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--text-color);
+    height: 100%;
+    padding-right: 6px;
+}
+
+.chapter .chapter_1{
+    color: white;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 135px;
+
+
+    background-color: #29ea831b;
+    border-color: #29ea834e;
+    
+}
+
+.chapter .chapter_2{
+    color: white;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 135px;
+    
+}
+
+
+

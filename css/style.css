@@ -1,0 +1,147 @@
+/*************************************************
+**************************************************
+
+Website Name: Section-4 Psychology Practice App
+Website URL: 
+Website Author: Yosen Girma
+Author URL: yosen-girma.web.app
+Copyright 2024. All Rights Reserved.
+
+*************************************************/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text-color: #ffffff74;
+    --grey: #A9AFAF;
+    --icon-green: #41C299;
+    --red-dark: #443331;
+    --red-light: #F35555;
+    --green-light: #0FF6B0;
+    --green-dark: #264C44;
+    --body-gradient: linear-gradient(148deg, rgba(25, 51, 48, 1) 0%, rgba(14, 30, 30, 1) 100%);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: var(--body-gradient);
+    min-height: 100vh;
+    max-width: 400px;
+    margin: 0;
+   
+}
+
+.frosted_glass {
+    color: var(--text-color);
+    background-color: rgba(255, 255, 255, 0.04);
+    border: 1px solid var(--text-color);
+    border-radius: 16px;
+    backdrop-filter: blur(10px);
+}
+
+nav {
+    z-index: 1000;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    color: var(--text-color);
+    gap: 8px;
+    width: 100%;
+    padding: 10px 24px;
+    border-bottom: 1px solid var(--text-color);
+    background-color: rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(10px);
+    border-radius: 0px 0px 20px 20px;
+}
+
+nav img {
+    width: 48px;
+    height: auto;
+}
+
+nav .heading {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+nav h1 {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav h2 {
+    font-size: 27px; /* Added 'px' for unit consistency */
+    font-weight: bold;
+}
+
+.container {
+    width: 100%;
+    padding: 100px 25px 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.container .top1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    font-size: 20px;
+    padding: 23px 8px 23px 23px;
+    width: 100%;
+}
+
+.container img {
+    width: 68px;
+    height: auto;
+}
+
+.bigcard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 39px 90px;
+    width: 100%;
+}
+
+.bigcard img {
+    width: 80px;
+    height: auto;
+}
+
+.bigcard .bottom_txt {
+    font-size: 27.5px;
+    font-weight: bold;
+}
+
+.footer {
+    position: fixed;
+    bottom: 16px;
+    width: 100%;
+    padding-top: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.footer_content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 21px 25px;
+    background-color: rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(10px);
+}
+
+.footer_content img {
+    height: 32px;
+    width: auto;
+}

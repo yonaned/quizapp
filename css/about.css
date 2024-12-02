@@ -1,0 +1,92 @@
+:root {
+    --text-color: #ffffff74;
+    --grey: #A9AFAF;
+    --icon-green: #41C299;
+    --red-dark: #443331;
+    --red-light: #F35555;
+    --green-light: #0FF6B0;
+    --green-dark: #264C44;
+    --body-gradient: linear-gradient(148deg, rgba(25, 51, 48, 1) 0%, rgba(14, 30, 30, 1) 100%);
+}
+
+a {
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+
+
+.container {
+    gap: 14px;
+}
+
+.container .about_bootcamp {
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    padding: 20px 18px;
+}
+
+.container .about_name {
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    padding: 20px 18px;
+}
+
+.container .about_name .name{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.link_header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 17px;
+}
+
+.link_header img {
+    width: 23px;
+    height: auto;
+}
+
+.link_header .link_text {
+    color: var(--text-color);
+    font-size: 20px;
+}
+
+.about_link{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about_link img{
+    width: 32px;
+    height: 32px;
+}
+
+.the_ref_link{
+    width: 100%;
+    background-color: transparent;
+}
+
+
+.the_ref_link .clickable_link{
+    font-weight: 600;
+    font-size: 20px;
+    background: #0711d31c;
+    width: 100%;
+}
+
+.the_ref_link .out_2 {
+    background: #ccd3071c;
+}
+
+
+.the_ref_link .out_3 {
+    background: #07d3151c;
+}

@@ -1,0 +1,109 @@
+.quizh2 {
+    color: #333;
+    margin-bottom:s 10px;
+    text-align: center;
+}
+.question-index {
+    font-size: 14px;
+    color: #c4c4c4;
+    text-align: left;
+    padding-bottom: 2px;
+    font-weight: bold;
+}
+
+.hquestion-index{
+
+    font-size: 20px;
+    color: aliceblue;
+}
+.options {
+    margin: 20px 0;
+}
+.option {
+    /* margin: 10px 0;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    color: #555;
+    padding: 10px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    background-color: #f0f8ff;
+    transition: background-color 0.3s;
+    cursor: pointer; */
+    margin-bottom: 12px;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 11px;
+    border: 1px solid var(--text-color);
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.039);
+}
+.correct {
+    /* background-color: #d4edda;
+    border-color: #c3e6cb; */
+
+    background-color: #31e2ad42;
+    border-color: #0FF6B0;
+    color: #0FF6B0;
+}
+.incorrect {
+    /* background-color: #f8d7da;
+    border-color: #f5c6cb; */
+
+    background-color: #ff000044;
+    border-color: #F35555;
+    color: #FF4A4A;
+}
+input[type="radio"] {
+    display: none;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    /* background-color: #007bff;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s; */
+
+    margin-bottom: 12px;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 11px;
+    border: 1px solid var(--text-color);
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.039);
+}
+
+.explanation {
+    display: none;
+    /* margin-top: 10px;
+    padding: 15px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    color: #333;
+    font-size: 14px; */
+    margin-top: 8px;
+    font-size: 14px;
+    font-style: italic;
+    margin-bottom: 12px;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 11px;
+    border: 1px solid var(--text-color);
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.039);
+}
+hr {
+    margin: 20px 0; /* Space above and below the separator */
+    border: 1px solid #ccc; /* Color of the separator */
+}

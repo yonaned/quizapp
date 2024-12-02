@@ -1,0 +1,3310 @@
+[
+    {
+        "question": "What is the definition of psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The study of human behavior and mental processes."
+            },
+            {
+                "label": "B",
+                "text": "The study of animals in their natural habitat."
+            },
+            {
+                "label": "C",
+                "text": "The study of group dynamics."
+            },
+            {
+                "label": "D",
+                "text": "The study of physical health."
+            }
+        ],
+        "correct": "A",
+        "explanation": "Psychology is defined as the scientific study of human behavior and the underlying mental processes."
+    },
+    {
+        "question": "Who is considered the father of modern psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Sigmund Freud"
+            },
+            {
+                "label": "B",
+                "text": "William James"
+            },
+            {
+                "label": "C",
+                "text": "Wilhelm Wundt"
+            },
+            {
+                "label": "D",
+                "text": "John B. Watson"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Wilhelm Wundt is recognized as the father of modern psychology for establishing the first psychology laboratory in 1879."
+    },
+    {
+        "question": "What is one of the primary goals of psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To control environmental factors."
+            },
+            {
+                "label": "B",
+                "text": "To describe individual behaviors."
+            },
+            {
+                "label": "C",
+                "text": "To eliminate mental disorders."
+            },
+            {
+                "label": "D",
+                "text": "To study animal behavior."
+            }
+        ],
+        "correct": "B",
+        "explanation": "One of the main goals of psychology is to describe individual behaviors to understand them better."
+    },
+    {
+        "question": "Which school of thought focuses on observable behavior?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Psychoanalysis"
+            },
+            {
+                "label": "B",
+                "text": "Behaviorism"
+            },
+            {
+                "label": "C",
+                "text": "Humanistic Psychology"
+            },
+            {
+                "label": "D",
+                "text": "Cognitive Psychology"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Behaviorism focuses on observable and measurable behaviors rather than internal mental processes."
+    },
+    {
+        "question": "What method did Wundt use to study mental processes?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Surveys"
+            },
+            {
+                "label": "B",
+                "text": "Introspection"
+            },
+            {
+                "label": "C",
+                "text": "Experiments"
+            },
+            {
+                "label": "D",
+                "text": "Observations"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Wundt developed the technique of introspection to examine mental experiences scientifically."
+    },
+    {
+        "question": "Which perspective emphasizes the role of unconscious dynamics?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Cognitive Perspective"
+            },
+            {
+                "label": "B",
+                "text": "Humanistic Perspective"
+            },
+            {
+                "label": "C",
+                "text": "Behavioral Perspective"
+            },
+            {
+                "label": "D",
+                "text": "Psychodynamic Perspective"
+            }
+        ],
+        "correct": "D",
+        "explanation": "The psychodynamic perspective focuses on unconscious dynamics and the influence of childhood experiences."
+    },
+    {
+        "question": "What type of research method involves observing subjects in their natural environment?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Case study"
+            },
+            {
+                "label": "B",
+                "text": "Survey"
+            },
+            {
+                "label": "C",
+                "text": "Naturalistic observation"
+            },
+            {
+                "label": "D",
+                "text": "Experimental research"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Naturalistic observation involves observing subjects in their natural environments to gather genuine data on behavior."
+    },
+    {
+        "question": "What is a key characteristic of the humanistic perspective?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Focus on observable behavior."
+            },
+            {
+                "label": "B",
+                "text": "Emphasis on unconscious motives."
+            },
+            {
+                "label": "C",
+                "text": "Importance of free will."
+            },
+            {
+                "label": "D",
+                "text": "Study of biological processes."
+            }
+        ],
+        "correct": "C",
+        "explanation": "The humanistic perspective emphasizes the uniqueness of individuals and the importance of free will in shaping behavior."
+    },
+    {
+        "question": "Which branch of psychology focuses on individual differences and personality traits?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Developmental Psychology"
+            },
+            {
+                "label": "B",
+                "text": "Clinical Psychology"
+            },
+            {
+                "label": "C",
+                "text": "Personality Psychology"
+            },
+            {
+                "label": "D",
+                "text": "Social Psychology"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Personality psychology studies individual differences, focusing on the enduring traits and characteristics of individuals."
+    },
+    {
+        "question": "What is the purpose of formulating a hypothesis in research?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To define the problem."
+            },
+            {
+                "label": "B",
+                "text": "To collect data."
+            },
+            {
+                "label": "C",
+                "text": "To make predictions."
+            },
+            {
+                "label": "D",
+                "text": "To analyze results."
+            }
+        ],
+        "correct": "C",
+        "explanation": "Formulating a hypothesis provides a tentative proposition that can be tested to make predictions about the relationship between variables."
+    },
+    {
+        "question": "What is one of the four main goals of psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To describe behavior."
+            },
+            {
+                "label": "B",
+                "text": "To eliminate emotions."
+            },
+            {
+                "label": "C",
+                "text": "To promote social interaction."
+            },
+            {
+                "label": "D",
+                "text": "To increase intelligence."
+            }
+        ],
+        "correct": "A",
+        "explanation": "One of the primary goals of psychology is to describe behavior, which helps in understanding it better."
+    },
+    {
+        "question": "Which goal of psychology involves understanding the causes of behavior?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Prediction"
+            },
+            {
+                "label": "B",
+                "text": "Control"
+            },
+            {
+                "label": "C",
+                "text": "Description"
+            },
+            {
+                "label": "D",
+                "text": "Explanation"
+            }
+        ],
+        "correct": "D",
+        "explanation": "The goal of explanation in psychology involves understanding and identifying the causes of behavior."
+    },
+    {
+        "question": "What does the goal of prediction in psychology aim to achieve?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To describe past behaviors."
+            },
+            {
+                "label": "B",
+                "text": "To determine future behaviors."
+            },
+            {
+                "label": "C",
+                "text": "To control behaviors."
+            },
+            {
+                "label": "D",
+                "text": "To analyze emotions."
+            }
+        ],
+        "correct": "B",
+        "explanation": "The prediction goal of psychology aims to determine what will happen in the future based on observed behaviors."
+    },
+    {
+        "question": "The control goal of psychology is primarily concerned with:",
+        "options": [
+            {
+                "label": "A",
+                "text": "Understanding thoughts."
+            },
+            {
+                "label": "B",
+                "text": "Changing undesirable behaviors."
+            },
+            {
+                "label": "C",
+                "text": "Observing actions."
+            },
+            {
+                "label": "D",
+                "text": "Describing emotions."
+            }
+        ],
+        "correct": "B",
+        "explanation": "The control goal in psychology focuses on modifying or changing behaviors from undesirable to desirable ones."
+    },
+    {
+        "question": "Why is psychology considered important?",
+        "options": [
+            {
+                "label": "A",
+                "text": "It only studies mental disorders."
+            },
+            {
+                "label": "B",
+                "text": "It provides insights into human behavior."
+            },
+            {
+                "label": "C",
+                "text": "It eliminates all emotions."
+            },
+            {
+                "label": "D",
+                "text": "It focuses solely on group behavior."
+            }
+        ],
+        "correct": "B",
+        "explanation": "Psychology is important as it offers insights into human behavior and mental processes, aiding in personal and societal understanding."
+    },
+    {
+        "question": "What is the significance of the goal of description in psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To analyze group dynamics."
+            },
+            {
+                "label": "B",
+                "text": "To document and detail behavior."
+            },
+            {
+                "label": "C",
+                "text": "To predict future events."
+            },
+            {
+                "label": "D",
+                "text": "To control emotional responses."
+            }
+        ],
+        "correct": "B",
+        "explanation": "The description goal involves documenting and detailing behaviors to build a foundational understanding of psychological phenomena."
+    },
+    {
+        "question": "Which aspect of psychology focuses on changing behavior?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Description"
+            },
+            {
+                "label": "B",
+                "text": "Control"
+            },
+            {
+                "label": "C",
+                "text": "Explanation"
+            },
+            {
+                "label": "D",
+                "text": "Prediction"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The control aspect of psychology is specifically aimed at modifying behaviors to be more desirable."
+    },
+    {
+        "question": "What does the explanation goal help psychologists to do?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Identify the causes of behavior."
+            },
+            {
+                "label": "B",
+                "text": "Record behaviors."
+            },
+            {
+                "label": "C",
+                "text": "Create surveys."
+            },
+            {
+                "label": "D",
+                "text": "Change emotions."
+            }
+        ],
+        "correct": "A",
+        "explanation": "The explanation goal helps psychologists identify and understand the causes behind specific behaviors."
+    },
+    {
+        "question": "Which goal of psychology is most closely associated with scientific methods?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Description"
+            },
+            {
+                "label": "B",
+                "text": "Control"
+            },
+            {
+                "label": "C",
+                "text": "Prediction"
+            },
+            {
+                "label": "D",
+                "text": "All of the above"
+            }
+        ],
+        "correct": "D",
+        "explanation": "All goals of psychology—description, explanation, prediction, and control—rely on scientific methods to gather and analyze data."
+    },
+    {
+        "question": "What is a key reason psychologists study behavior?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To only help those with disorders."
+            },
+            {
+                "label": "B",
+                "text": "To improve understanding of individuals and groups."
+            },
+            {
+                "label": "C",
+                "text": "To eliminate all negative feelings."
+            },
+            {
+                "label": "D",
+                "text": "To reinforce stereotypes."
+            }
+        ],
+        "correct": "B",
+        "explanation": "Psychologists study behavior to enhance understanding of both individuals and groups, facilitating better interactions and interventions."
+    },
+    {
+        "question": "What year is considered the beginning of psychology as a distinct field?",
+        "options": [
+            {
+                "label": "A",
+                "text": "1900"
+            },
+            {
+                "label": "B",
+                "text": "1879"
+            },
+            {
+                "label": "C",
+                "text": "1950"
+            },
+            {
+                "label": "D",
+                "text": "1800"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Psychology is considered to have begun as a distinct field in 1879 with Wilhelm Wundt establishing the first psychology laboratory."
+    },
+    {
+        "question": "Which method did Wilhelm Wundt develop for studying mental processes?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Naturalistic observation"
+            },
+            {
+                "label": "B",
+                "text": "Case studies"
+            },
+            {
+                "label": "C",
+                "text": "Objective introspection"
+            },
+            {
+                "label": "D",
+                "text": "Surveys"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Wilhelm Wundt developed the technique of objective introspection to scientifically examine mental experiences."
+    },
+    {
+        "question": "What is a school of thought in psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "A method for conducting experiments"
+            },
+            {
+                "label": "B",
+                "text": "A system of thinking about human behavior"
+            },
+            {
+                "label": "C",
+                "text": "A type of psychological disorder"
+            },
+            {
+                "label": "D",
+                "text": "A research technique"
+            }
+        ],
+        "correct": "B",
+        "explanation": "In psychology, a school of thought refers to a system of thinking that explains human behavior."
+    },
+    {
+        "question": "Which of the following is NOT one of the five early schools of psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Structuralism"
+            },
+            {
+                "label": "B",
+                "text": "Behaviorism"
+            },
+            {
+                "label": "C",
+                "text": "Humanism"
+            },
+            {
+                "label": "D",
+                "text": "Functionalism"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Humanism is considered a modern perspective, while structuralism, behaviorism, and functionalism are part of the early schools of thought."
+    },
+    {
+        "question": "What does the structuralism school of thought focus on?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The functions of the mind"
+            },
+            {
+                "label": "B",
+                "text": "The observable behavior"
+            },
+            {
+                "label": "C",
+                "text": "The structure of the mind"
+            },
+            {
+                "label": "D",
+                "text": "The unconscious mind"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Structuralism focuses on analyzing the structure of the mind and its components."
+    },
+    {
+        "question": "Which early school of thought examined how the mind allows people to adapt to their environment?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Functionalism"
+            },
+            {
+                "label": "B",
+                "text": "Behaviorism"
+            },
+            {
+                "label": "C",
+                "text": "Gestalt Psychology"
+            },
+            {
+                "label": "D",
+                "text": "Psychoanalysis"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Functionalism examines how mental processes enable individuals to adapt to their environment."
+    },
+    {
+        "question": "What is the main focus of Gestalt psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The study of behavior reinforcement"
+            },
+            {
+                "label": "B",
+                "text": "The whole mind rather than its parts"
+            },
+            {
+                "label": "C",
+                "text": "The unconscious mind"
+            },
+            {
+                "label": "D",
+                "text": "The physiological effects on behavior"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Gestalt psychology emphasizes understanding the whole mind and its processes rather than just analyzing individual parts."
+    },
+    {
+        "question": "Who is considered the founder of behaviorism?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Sigmund Freud"
+            },
+            {
+                "label": "B",
+                "text": "John B. Watson"
+            },
+            {
+                "label": "C",
+                "text": "William James"
+            },
+            {
+                "label": "D",
+                "text": "Max Wertheimer"
+            }
+        ],
+        "correct": "B",
+        "explanation": "John B. Watson is recognized as the founder of behaviorism, which focuses on observable and measurable behaviors."
+    },
+    {
+        "question": "Which of the following schools of thought focuses on the unconscious mind?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Structuralism"
+            },
+            {
+                "label": "B",
+                "text": "Psychoanalysis"
+            },
+            {
+                "label": "C",
+                "text": "Functionalism"
+            },
+            {
+                "label": "D",
+                "text": "Behaviorism"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Psychoanalysis focuses on studying the unconscious mind and its influence on behavior."
+    },
+    {
+        "question": "Which historical figure is associated with the development of objective introspection?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Sigmund Freud"
+            },
+            {
+                "label": "B",
+                "text": "Wilhelm Wundt"
+            },
+            {
+                "label": "C",
+                "text": "William James"
+            },
+            {
+                "label": "D",
+                "text": "John B. Watson"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Wilhelm Wundt is associated with the development of objective introspection as a method for studying mental processes."
+    },
+    {
+        "question": "What is the primary focus of the psychodynamic perspective?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Observable behaviors"
+            },
+            {
+                "label": "B",
+                "text": "Unconscious motives and childhood experiences"
+            },
+            {
+                "label": "C",
+                "text": "Cognitive processes"
+            },
+            {
+                "label": "D",
+                "text": "Biological factors"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The psychodynamic perspective emphasizes unconscious motives and the influence of childhood experiences on behavior."
+    },
+    {
+        "question": "Which perspective focuses on how learning experiences shape behavior?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Cognitive Perspective"
+            },
+            {
+                "label": "B",
+                "text": "Behavioral Perspective"
+            },
+            {
+                "label": "C",
+                "text": "Humanistic Perspective"
+            },
+            {
+                "label": "D",
+                "text": "Biological Perspective"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The behavioral perspective emphasizes the role of learning experiences, such as rewards and punishments, in shaping behavior."
+    },
+    {
+        "question": "What does the humanistic perspective emphasize?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Unconscious dynamics"
+            },
+            {
+                "label": "B",
+                "text": "Environmental influences"
+            },
+            {
+                "label": "C",
+                "text": "Human values and subjective experiences"
+            },
+            {
+                "label": "D",
+                "text": "Biological processes"
+            }
+        ],
+        "correct": "C",
+        "explanation": "The humanistic perspective emphasizes the uniqueness of individuals and focuses on human values and subjective experiences."
+    },
+    {
+        "question": "Which perspective is primarily concerned with mental processes like reasoning and problem-solving?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Cognitive Perspective"
+            },
+            {
+                "label": "B",
+                "text": "Behavioral Perspective"
+            },
+            {
+                "label": "C",
+                "text": "Psychodynamic Perspective"
+            },
+            {
+                "label": "D",
+                "text": "Socio-cultural Perspective"
+            }
+        ],
+        "correct": "A",
+        "explanation": "The cognitive perspective focuses on mental processes such as reasoning, memory, and problem-solving."
+    },
+    {
+        "question": "What is the central focus of the biological perspective in psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Social interactions"
+            },
+            {
+                "label": "B",
+                "text": "Cultural influences"
+            },
+            {
+                "label": "C",
+                "text": "The body and brain's effects on behavior"
+            },
+            {
+                "label": "D",
+                "text": "Human potential"
+            }
+        ],
+        "correct": "C",
+        "explanation": "The biological perspective examines how the body, particularly the brain and its chemicals, affects behavior, feelings, and thoughts."
+    },
+    {
+        "question": "Which perspective emphasizes cultural and social factors in understanding behavior?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Cognitive Perspective"
+            },
+            {
+                "label": "B",
+                "text": "Humanistic Perspective"
+            },
+            {
+                "label": "C",
+                "text": "Socio-cultural Perspective"
+            },
+            {
+                "label": "D",
+                "text": "Behavioral Perspective"
+            }
+        ],
+        "correct": "C",
+        "explanation": "The socio-cultural perspective focuses on how social and cultural contexts influence human behavior."
+    },
+    {
+        "question": "Which perspective is described as viewing the mind as a 'black box'?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Psychodynamic Perspective"
+            },
+            {
+                "label": "B",
+                "text": "Behavioral Perspective"
+            },
+            {
+                "label": "C",
+                "text": "Cognitive Perspective"
+            },
+            {
+                "label": "D",
+                "text": "Humanistic Perspective"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The behavioral perspective is sometimes referred to as the 'black box' approach because it focuses on input (environment) and output (behavior) without considering internal processes."
+    },
+    {
+        "question": "What does the psychodynamic perspective often explore in individuals?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Conscious decisions"
+            },
+            {
+                "label": "B",
+                "text": "Unconscious conflicts and desires"
+            },
+            {
+                "label": "C",
+                "text": "Observable behavior"
+            },
+            {
+                "label": "D",
+                "text": "Cognitive strategies"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The psychodynamic perspective often explores unconscious conflicts, desires, and the impact of early childhood experiences on behavior."
+    },
+    {
+        "question": "Which psychological perspective highlights the importance of self-actualization?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Cognitive Perspective"
+            },
+            {
+                "label": "B",
+                "text": "Humanistic Perspective"
+            },
+            {
+                "label": "C",
+                "text": "Behavioral Perspective"
+            },
+            {
+                "label": "D",
+                "text": "Biological Perspective"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The humanistic perspective emphasizes self-actualization, which refers to realizing and fulfilling one's potential."
+    },
+    {
+        "question": "What type of approach does the biological perspective take towards behavior?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Holistic"
+            },
+            {
+                "label": "B",
+                "text": "Reductionist"
+            },
+            {
+                "label": "C",
+                "text": "Cognitive"
+            },
+            {
+                "label": "D",
+                "text": "Dynamic"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The biological perspective takes a reductionist approach, focusing on how biological factors influence behavior."
+    },
+    {
+        "question": "Which branch of psychology focuses on the development of individuals throughout their lifespan?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Clinical Psychology"
+            },
+            {
+                "label": "B",
+                "text": "Developmental Psychology"
+            },
+            {
+                "label": "C",
+                "text": "Cognitive Psychology"
+            },
+            {
+                "label": "D",
+                "text": "Social Psychology"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Developmental psychology studies how individuals grow and change throughout their lifespan, from infancy to old age."
+    },
+    {
+        "question": "What is the primary focus of clinical psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Conducting experiments"
+            },
+            {
+                "label": "B",
+                "text": "Assessing and treating mental disorders"
+            },
+            {
+                "label": "C",
+                "text": "Studying group behavior"
+            },
+            {
+                "label": "D",
+                "text": "Researching cognitive processes"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Clinical psychology is primarily focused on assessing, diagnosing, and treating individuals with mental disorders."
+    },
+    {
+        "question": "Which branch of psychology is concerned with understanding how people interact with one another?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Social Psychology"
+            },
+            {
+                "label": "B",
+                "text": "Industrial-Organizational Psychology"
+            },
+            {
+                "label": "C",
+                "text": "Forensic Psychology"
+            },
+            {
+                "label": "D",
+                "text": "Cognitive Psychology"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Social psychology studies how individuals influence and are influenced by others, focusing on interpersonal interactions."
+    },
+    {
+        "question": "What does industrial-organizational psychology primarily focus on?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Workplace behavior and productivity"
+            },
+            {
+                "label": "B",
+                "text": "Child development"
+            },
+            {
+                "label": "C",
+                "text": "Mental health treatment"
+            },
+            {
+                "label": "D",
+                "text": "Social relationships"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Industrial-organizational psychology focuses on applying psychological principles to workplace issues, including behavior, productivity, and employee well-being."
+    },
+    {
+        "question": "Which branch of psychology applies psychological principles to legal issues?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Forensic Psychology"
+            },
+            {
+                "label": "B",
+                "text": "Developmental Psychology"
+            },
+            {
+                "label": "C",
+                "text": "Cognitive Psychology"
+            },
+            {
+                "label": "D",
+                "text": "Social Psychology"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Forensic psychology applies psychological concepts and methods to legal issues, often involving assessments of individuals in legal contexts."
+    },
+    {
+        "question": "What is a key focus of cognitive psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Biological processes"
+            },
+            {
+                "label": "B",
+                "text": "Social interactions"
+            },
+            {
+                "label": "C",
+                "text": "Mental processes such as thinking and memory"
+            },
+            {
+                "label": "D",
+                "text": "Developmental stages"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Cognitive psychology focuses on understanding mental processes such as perception, memory, reasoning, and problem-solving."
+    },
+    {
+        "question": "Which branch of psychology studies the impact of culture on behavior?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Cognitive Psychology"
+            },
+            {
+                "label": "B",
+                "text": "Developmental Psychology"
+            },
+            {
+                "label": "C",
+                "text": "Cross-Cultural Psychology"
+            },
+            {
+                "label": "D",
+                "text": "Clinical Psychology"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Cross-cultural psychology examines how cultural factors influence human behavior, thoughts, and emotions."
+    },
+    {
+        "question": "What is the primary aim of health psychology?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To study how biological factors affect behavior"
+            },
+            {
+                "label": "B",
+                "text": "To understand how psychological factors influence health and illness"
+            },
+            {
+                "label": "C",
+                "text": "To assess mental health disorders"
+            },
+            {
+                "label": "D",
+                "text": "To analyze workplace behavior"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Health psychology focuses on how psychological, behavioral, and cultural factors contribute to physical health and illness."
+    },
+    {
+        "question": "What does educational psychology primarily study?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Workplace efficiency"
+            },
+            {
+                "label": "B",
+                "text": "Teaching and learning processes"
+            },
+            {
+                "label": "C",
+                "text": "Mental health treatment"
+            },
+            {
+                "label": "D",
+                "text": "Social relationships"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Educational psychology studies how people learn and the best practices to teach them effectively."
+    },
+    {
+        "question": "Which branch of psychology focuses on understanding behavior in a workplace setting?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Social Psychology"
+            },
+            {
+                "label": "B",
+                "text": "Industrial-Organizational Psychology"
+            },
+            {
+                "label": "C",
+                "text": "Developmental Psychology"
+            },
+            {
+                "label": "D",
+                "text": "Clinical Psychology"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Industrial-organizational psychology focuses on studying and improving workplace behavior and efficiency."
+    },
+    {
+        "question": "What is the first step in the scientific method used in psychological research?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Analyze data"
+            },
+            {
+                "label": "B",
+                "text": "Formulate a hypothesis"
+            },
+            {
+                "label": "C",
+                "text": "Collect data"
+            },
+            {
+                "label": "D",
+                "text": "Identify a research question"
+            }
+        ],
+        "correct": "D",
+        "explanation": "The first step in the scientific method is to identify a research question that guides the research process."
+    },
+    {
+        "question": "What is a hypothesis?",
+        "options": [
+            {
+                "label": "A",
+                "text": "A confirmed theory"
+            },
+            {
+                "label": "B",
+                "text": "An educated guess that can be tested"
+            },
+            {
+                "label": "C",
+                "text": "A summary of research findings"
+            },
+            {
+                "label": "D",
+                "text": "A method of data collection"
+            }
+        ],
+        "correct": "B",
+        "explanation": "A hypothesis is an educated guess that proposes a relationship between variables and can be tested through research."
+    },
+    {
+        "question": "Which research method involves detailed examination of a single individual or group?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Survey"
+            },
+            {
+                "label": "B",
+                "text": "Case study"
+            },
+            {
+                "label": "C",
+                "text": "Naturalistic observation"
+            },
+            {
+                "label": "D",
+                "text": "Experiment"
+            }
+        ],
+        "correct": "B",
+        "explanation": "A case study involves an in-depth examination of a single individual or a small group to gather detailed information."
+    },
+    {
+        "question": "What is the primary purpose of correlational research?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To establish cause-and-effect relationships"
+            },
+            {
+                "label": "B",
+                "text": "To identify relationships between variables"
+            },
+            {
+                "label": "C",
+                "text": "To manipulate variables"
+            },
+            {
+                "label": "D",
+                "text": "To conduct experiments"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Correlational research aims to identify and measure the relationships between two or more variables without manipulating them."
+    },
+    {
+        "question": "In an experiment, what is the independent variable?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The variable that is measured"
+            },
+            {
+                "label": "B",
+                "text": "The variable that is manipulated"
+            },
+            {
+                "label": "C",
+                "text": "The variable that remains constant"
+            },
+            {
+                "label": "D",
+                "text": "The outcome of the experiment"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The independent variable is the one that the researcher manipulates to observe its effect on the dependent variable."
+    },
+    {
+        "question": "What does the term 'dependent variable' refer to in research?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The variable that is manipulated"
+            },
+            {
+                "label": "B",
+                "text": "The outcome that is measured"
+            },
+            {
+                "label": "C",
+                "text": "The variable that remains constant"
+            },
+            {
+                "label": "D",
+                "text": "The control group"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The dependent variable is the outcome that is measured in an experiment to assess the impact of the independent variable."
+    },
+    {
+        "question": "What is a control group in an experiment?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The group that receives the treatment"
+            },
+            {
+                "label": "B",
+                "text": "The group that is compared to the experimental group"
+            },
+            {
+                "label": "C",
+                "text": "The group that is not measured"
+            },
+            {
+                "label": "D",
+                "text": "The group that is manipulated"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The control group serves as a baseline for comparison, as it does not receive the treatment or intervention that the experimental group does."
+    },
+    {
+        "question": "Which type of research method is typically used to collect data from large groups of people?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Case study"
+            },
+            {
+                "label": "B",
+                "text": "Experiment"
+            },
+            {
+                "label": "C",
+                "text": "Survey"
+            },
+            {
+                "label": "D",
+                "text": "Naturalistic observation"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Surveys are often used to collect data from large groups of people quickly and efficiently."
+    },
+    {
+        "question": "What does naturalistic observation involve?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Conducting experiments in a lab setting"
+            },
+            {
+                "label": "B",
+                "text": "Observing subjects in their natural environment"
+            },
+            {
+                "label": "C",
+                "text": "Manipulating variables in a controlled setting"
+            },
+            {
+                "label": "D",
+                "text": "Administering surveys to participants"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Naturalistic observation involves observing and recording behavior in its natural environment without interference."
+    },
+    {
+        "question": "Why is random sampling important in research?",
+        "options": [
+            {
+                "label": "A",
+                "text": "It eliminates bias in selecting participants"
+            },
+            {
+                "label": "B",
+                "text": "It ensures a small sample size"
+            },
+            {
+                "label": "C",
+                "text": "It guarantees accurate results"
+            },
+            {
+                "label": "D",
+                "text": "It simplifies data collection"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Random sampling is crucial as it eliminates selection bias, allowing researchers to generalize findings to the larger population."
+    },
+    {
+        "question": "What is the primary role of neurotransmitters in the nervous system?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To protect the brain from injury"
+            },
+            {
+                "label": "B",
+                "text": "To transmit signals between neurons"
+            },
+            {
+                "label": "C",
+                "text": "To produce hormones"
+            },
+            {
+                "label": "D",
+                "text": "To regulate body temperature"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Neurotransmitters are chemical messengers that transmit signals between neurons in the nervous system."
+    },
+    {
+        "question": "Which part of the neuron receives incoming signals?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Axon"
+            },
+            {
+                "label": "B",
+                "text": "Dendrites"
+            },
+            {
+                "label": "C",
+                "text": "Soma"
+            },
+            {
+                "label": "D",
+                "text": "Myelin sheath"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Dendrites are the structures on a neuron that receive incoming signals from other neurons."
+    },
+    {
+        "question": "What is the function of the axon in a neuron?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To receive signals"
+            },
+            {
+                "label": "B",
+                "text": "To transmit signals away from the cell body"
+            },
+            {
+                "label": "C",
+                "text": "To maintain cell shape"
+            },
+            {
+                "label": "D",
+                "text": "To produce neurotransmitters"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The axon transmits electrical impulses away from the neuron's cell body to other neurons or muscles."
+    },
+    {
+        "question": "Which part of the brain is responsible for regulating basic life functions, such as heartbeat and breathing?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Cerebellum"
+            },
+            {
+                "label": "B",
+                "text": "Brainstem"
+            },
+            {
+                "label": "C",
+                "text": "Cerebral cortex"
+            },
+            {
+                "label": "D",
+                "text": "Limbic system"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The brainstem controls vital functions like heartbeat and breathing."
+    },
+    {
+        "question": "What is the role of the limbic system?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Regulating movement"
+            },
+            {
+                "label": "B",
+                "text": "Processing emotions and memory"
+            },
+            {
+                "label": "C",
+                "text": "Controlling bodily functions"
+            },
+            {
+                "label": "D",
+                "text": "Managing sensory information"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The limbic system is involved in processing emotions, memory, and motivation."
+    },
+    {
+        "question": "Which area of the brain is associated with higher cognitive functions such as reasoning and planning?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Occipital lobe"
+            },
+            {
+                "label": "B",
+                "text": "Temporal lobe"
+            },
+            {
+                "label": "C",
+                "text": "Frontal lobe"
+            },
+            {
+                "label": "D",
+                "text": "Parietal lobe"
+            }
+        ],
+        "correct": "C",
+        "explanation": "The frontal lobe is associated with higher cognitive functions, including reasoning, planning, and decision-making."
+    },
+    {
+        "question": "What is the function of the myelin sheath?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To protect the neuron from damage"
+            },
+            {
+                "label": "B",
+                "text": "To speed up the transmission of signals"
+            },
+            {
+                "label": "C",
+                "text": "To produce neurotransmitters"
+            },
+            {
+                "label": "D",
+                "text": "To support the structure of the neuron"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The myelin sheath insulates the axon and speeds up the transmission of electrical signals along the neuron."
+    },
+    {
+        "question": "Which neurotransmitter is primarily associated with mood regulation?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Dopamine"
+            },
+            {
+                "label": "B",
+                "text": "Serotonin"
+            },
+            {
+                "label": "C",
+                "text": "Acetylcholine"
+            },
+            {
+                "label": "D",
+                "text": "Norepinephrine"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Serotonin is a neurotransmitter that plays a key role in mood regulation and emotional well-being."
+    },
+    {
+        "question": "What is the process by which a neuron becomes activated and sends a signal?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Reuptake"
+            },
+            {
+                "label": "B",
+                "text": "Action potential"
+            },
+            {
+                "label": "C",
+                "text": "Neurotransmission"
+            },
+            {
+                "label": "D",
+                "text": "Synaptic transmission"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Action potential is the process by which a neuron becomes activated and generates an electrical signal that travels down the axon."
+    },
+    {
+        "question": "Which system in the body is responsible for the 'fight or flight' response?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Endocrine system"
+            },
+            {
+                "label": "B",
+                "text": "Nervous system"
+            },
+            {
+                "label": "C",
+                "text": "Muscular system"
+            },
+            {
+                "label": "D",
+                "text": "Circulatory system"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The nervous system, particularly the sympathetic nervous system, is responsible for the 'fight or flight' response."
+    },
+    {
+        "question": "What is the process called when sensory organs detect stimuli from the environment?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Perception"
+            },
+            {
+                "label": "B",
+                "text": "Transduction"
+            },
+            {
+                "label": "C",
+                "text": "Sensation"
+            },
+            {
+                "label": "D",
+                "text": "Attention"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Sensation is the process by which sensory organs detect stimuli and convert them into neural messages."
+    },
+    {
+        "question": "What is the minimum intensity required for a stimulus to be detected called?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Difference threshold"
+            },
+            {
+                "label": "B",
+                "text": "Absolute threshold"
+            },
+            {
+                "label": "C",
+                "text": "Sensory adaptation"
+            },
+            {
+                "label": "D",
+                "text": "Perceptual constancy"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The absolute threshold refers to the minimum level of stimulation that can be detected 50% of the time."
+    },
+    {
+        "question": "What term describes the process of organizing sensations into meaningful patterns?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Sensation"
+            },
+            {
+                "label": "B",
+                "text": "Perception"
+            },
+            {
+                "label": "C",
+                "text": "Adaptation"
+            },
+            {
+                "label": "D",
+                "text": "Attention"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Perception is the process that organizes sensory information into meaningful patterns."
+    },
+    {
+        "question": "Which of the following refers to the tendency of sensory receptors to become less responsive to constant stimuli?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Perceptual constancy"
+            },
+            {
+                "label": "B",
+                "text": "Sensory adaptation"
+            },
+            {
+                "label": "C",
+                "text": "Difference threshold"
+            },
+            {
+                "label": "D",
+                "text": "Attention"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Sensory adaptation allows individuals to ignore unchanging stimuli while remaining alert to potential changes."
+    },
+    {
+        "question": "What is the term for the smallest change in stimulus intensity that can be detected?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Difference threshold"
+            },
+            {
+                "label": "B",
+                "text": "Absolute threshold"
+            },
+            {
+                "label": "C",
+                "text": "Sensory adaptation"
+            },
+            {
+                "label": "D",
+                "text": "Transduction"
+            }
+        ],
+        "correct": "A",
+        "explanation": "The difference threshold, or just noticeable difference (JND), is the minimum change in stimulus intensity required for detection."
+    },
+    {
+        "question": "Which psychological factor can affect attention according to the document?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Motives"
+            },
+            {
+                "label": "B",
+                "text": "Color"
+            },
+            {
+                "label": "C",
+                "text": "Distance"
+            },
+            {
+                "label": "D",
+                "text": "Size"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Motives or needs are internal factors that influence what an individual pays attention to."
+    },
+    {
+        "question": "What is the ability to judge the distance of objects called?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Form perception"
+            },
+            {
+                "label": "B",
+                "text": "Depth perception"
+            },
+            {
+                "label": "C",
+                "text": "Sensation"
+            },
+            {
+                "label": "D",
+                "text": "Perceptual constancy"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Depth perception allows individuals to perceive the distance of objects in three dimensions."
+    },
+    {
+        "question": "Which law states that items which are close together tend to be perceived as belonging together?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Law of similarity"
+            },
+            {
+                "label": "B",
+                "text": "Law of closure"
+            },
+            {
+                "label": "C",
+                "text": "Law of proximity"
+            },
+            {
+                "label": "D",
+                "text": "Law of good figure"
+            }
+        ],
+        "correct": "C",
+        "explanation": "The law of proximity indicates that we perceive items that are close together as forming a group."
+    },
+    {
+        "question": "What does perceptual constancy allow us to do?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Detect changes in stimulus"
+            },
+            {
+                "label": "B",
+                "text": "Perceive objects as stable despite changes"
+            },
+            {
+                "label": "C",
+                "text": "Focus on new stimuli"
+            },
+            {
+                "label": "D",
+                "text": "Ignore sensory input"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Perceptual constancy enables us to perceive objects as stable in size, shape, and brightness despite variations in sensory input."
+    },
+    {
+        "question": "What is an example of a visual illusion mentioned in the document?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Moon illusion"
+            },
+            {
+                "label": "B",
+                "text": "Depth perception"
+            },
+            {
+                "label": "C",
+                "text": "Perceptual constancy"
+            },
+            {
+                "label": "D",
+                "text": "Sensory adaptation"
+            }
+        ],
+        "correct": "A",
+        "explanation": "The moon illusion is a classic example of a visual illusion where the moon appears larger when near the horizon than when higher in the sky."
+    },
+    {
+        "question": "What is the term for the process of converting physical energy into neural messages?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Sensation"
+            },
+            {
+                "label": "B",
+                "text": "Perception"
+            },
+            {
+                "label": "C",
+                "text": "Transduction"
+            },
+            {
+                "label": "D",
+                "text": "Adaptation"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Transduction is the process through which sensory receptors convert physical energy from stimuli into neural messages."
+    },
+    {
+        "question": "In the context of sensory thresholds, what does the law of absolute threshold refer to?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The minimum change needed to notice a difference"
+            },
+            {
+                "label": "B",
+                "text": "The maximum level of stimulation that can be detected"
+            },
+            {
+                "label": "C",
+                "text": "The minimum level of stimulation that can be detected"
+            },
+            {
+                "label": "D",
+                "text": "The average level of stimulation for response"
+            }
+        ],
+        "correct": "C",
+        "explanation": "The absolute threshold is defined as the minimum level of stimulation that can be detected 50% of the time."
+    },
+    {
+        "question": "Which of the following best describes 'attention' in the perceptual process?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The ability to ignore all stimuli"
+            },
+            {
+                "label": "B",
+                "text": "The selection of certain inputs for awareness"
+            },
+            {
+                "label": "C",
+                "text": "The organization of sensory data"
+            },
+            {
+                "label": "D",
+                "text": "The perception of depth"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Attention refers to the perceptual process that selects certain stimuli for inclusion in conscious awareness while ignoring others."
+    },
+    {
+        "question": "What is the role of 'contours' in form perception?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To create depth in images"
+            },
+            {
+                "label": "B",
+                "text": "To separate figures from their background"
+            },
+            {
+                "label": "C",
+                "text": "To enhance sensory adaptation"
+            },
+            {
+                "label": "D",
+                "text": "To detect changes in size"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Contours help distinguish a figure from its ground by highlighting differences in brightness or color."
+    },
+    {
+        "question": "Which law of perceptual organization states that similar items tend to be grouped together?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Law of proximity"
+            },
+            {
+                "label": "B",
+                "text": "Law of similarity"
+            },
+            {
+                "label": "C",
+                "text": "Law of closure"
+            },
+            {
+                "label": "D",
+                "text": "Law of continuity"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The law of similarity suggests that similar items are perceived as belonging together and are organized as such."
+    },
+    {
+        "question": "How does the law of good figure contribute to perception?",
+        "options": [
+            {
+                "label": "A",
+                "text": "By focusing on movement"
+            },
+            {
+                "label": "B",
+                "text": "By organizing stimuli into balanced shapes"
+            },
+            {
+                "label": "C",
+                "text": "By detecting changes in brightness"
+            },
+            {
+                "label": "D",
+                "text": "By enhancing sensory adaptation"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The law of good figure explains our tendency to perceive objects as organized into balanced or symmetrical shapes."
+    },
+    {
+        "question": "What type of cues are used for depth perception that require two eyes?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Monocular cues"
+            },
+            {
+                "label": "B",
+                "text": "Binocular cues"
+            },
+            {
+                "label": "C",
+                "text": "Pictorial cues"
+            },
+            {
+                "label": "D",
+                "text": "Visual cues"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Binocular cues, such as retinal disparity and convergence, require the use of both eyes to perceive depth."
+    },
+    {
+        "question": "What is one example of a monocular cue for depth perception?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Retinal disparity"
+            },
+            {
+                "label": "B",
+                "text": "Convergence"
+            },
+            {
+                "label": "C",
+                "text": "Relative size"
+            },
+            {
+                "label": "D",
+                "text": "Binocular disparity"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Relative size is a monocular cue where objects that appear smaller are perceived as being farther away."
+    },
+    {
+        "question": "Which phenomenon is described as a false perception of an object?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Perceptual constancy"
+            },
+            {
+                "label": "B",
+                "text": "Sensory adaptation"
+            },
+            {
+                "label": "C",
+                "text": "Perceptual illusion"
+            },
+            {
+                "label": "D",
+                "text": "Depth perception"
+            }
+        ],
+        "correct": "C",
+        "explanation": "A perceptual illusion refers to a misperception or false perception of an object, such as visual or optical illusions."
+    },
+    {
+        "question": "What does the concept of 'perceptual constancy' allow us to maintain?",
+        "options": [
+            {
+                "label": "A",
+                "text": "A stable perception of objects despite changes"
+            },
+            {
+                "label": "B",
+                "text": "An awareness of all stimuli"
+            },
+            {
+                "label": "C",
+                "text": "A constant sensory input"
+            },
+            {
+                "label": "D",
+                "text": "A heightened sense of adaptation"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Perceptual constancy allows us to perceive objects as stable in size, shape, and brightness despite variations in sensory input."
+    },
+    {
+        "question": "Which of the following describes the concept of 'depth perception'?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The ability to perceive color"
+            },
+            {
+                "label": "B",
+                "text": "The ability to understand distance and depth"
+            },
+            {
+                "label": "C",
+                "text": "The process of organizing sensations"
+            },
+            {
+                "label": "D",
+                "text": "The detection of sound intensity"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Depth perception is the ability to perceive the distance and depth of objects in the environment."
+    },
+    {
+        "question": "What are binocular cues for depth perception?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Cues that require one eye"
+            },
+            {
+                "label": "B",
+                "text": "Cues that require two eyes"
+            },
+            {
+                "label": "C",
+                "text": "Visual cues without any eyes"
+            },
+            {
+                "label": "D",
+                "text": "Cues based on texture"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Binocular cues, such as retinal disparity and convergence, require both eyes to perceive depth."
+    },
+    {
+        "question": "What is retinal disparity?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The difference between images on the two retinas"
+            },
+            {
+                "label": "B",
+                "text": "The alignment of the eyes for depth perception"
+            },
+            {
+                "label": "C",
+                "text": "The adjustment of the lens in one eye"
+            },
+            {
+                "label": "D",
+                "text": "The perception of color differences"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Retinal disparity refers to the degree of difference between the images of an object that are focused on the two retinas."
+    },
+    {
+        "question": "What is convergence in the context of depth perception?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The merging of two visual fields into one"
+            },
+            {
+                "label": "B",
+                "text": "The inward turning of the eyes to focus on close objects"
+            },
+            {
+                "label": "C",
+                "text": "The adjustment of lens shape for depth"
+            },
+            {
+                "label": "D",
+                "text": "The perception of relative size"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Convergence is the degree to which the eyes turn inward to focus on an object, increasing as the object gets closer."
+    },
+    {
+        "question": "Which of the following is a monocular cue for depth perception?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Retinal disparity"
+            },
+            {
+                "label": "B",
+                "text": "Convergence"
+            },
+            {
+                "label": "C",
+                "text": "Motion parallax"
+            },
+            {
+                "label": "D",
+                "text": "Binocular disparity"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Motion parallax is a monocular cue that helps perceive depth based on the relative motion of objects as we move."
+    },
+    {
+        "question": "What does the term 'pictorial cues' refer to?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Cues used in photography"
+            },
+            {
+                "label": "B",
+                "text": "Artistic techniques to create depth in images"
+            },
+            {
+                "label": "C",
+                "text": "Cues related to auditory perception"
+            },
+            {
+                "label": "D",
+                "text": "Cues based on tactile sensations"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Pictorial cues are techniques used by artists to create the illusion of depth in drawings and paintings."
+    },
+    {
+        "question": "Which pictorial cue involves objects that overlap appearing closer?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Relative size"
+            },
+            {
+                "label": "B",
+                "text": "Interposition"
+            },
+            {
+                "label": "C",
+                "text": "Linear perspective"
+            },
+            {
+                "label": "D",
+                "text": "Aerial perspective"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Interposition is the pictorial cue that states that objects overlapping others are perceived as closer."
+    },
+    {
+        "question": "What is the 'law of closure' in perceptual organization?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The tendency to perceive incomplete shapes as complete"
+            },
+            {
+                "label": "B",
+                "text": "The perception of items close together as a group"
+            },
+            {
+                "label": "C",
+                "text": "The organization of similar items together"
+            },
+            {
+                "label": "D",
+                "text": "The perception of balanced shapes"
+            }
+        ],
+        "correct": "A",
+        "explanation": "The law of closure refers to the tendency to perceive incomplete shapes as complete by filling in gaps."
+    },
+    {
+        "question": "What does the concept of 'size constancy' refer to?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Perceiving objects as stable in size despite changes in distance"
+            },
+            {
+                "label": "B",
+                "text": "The ability to recognize shapes regardless of their angle"
+            },
+            {
+                "label": "C",
+                "text": "The perception of brightness in varying light conditions"
+            },
+            {
+                "label": "D",
+                "text": "The ability to detect motion in the environment"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Size constancy allows us to perceive an object's size as stable, even when its retinal image changes due to distance."
+    },
+    {
+        "question": "Which type of illusion involves misperceptions of size or length?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Visual illusions"
+            },
+            {
+                "label": "B",
+                "text": "Auditory illusions"
+            },
+            {
+                "label": "C",
+                "text": "Cognitive illusions"
+            },
+            {
+                "label": "D",
+                "text": "Tactile illusions"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Visual illusions are misperceptions or false perceptions of size, shape, or length, such as the Muller-Lyer illusion."
+    },
+    {
+        "question": "What does the term 'perceptual illusion' refer to?",
+        "options": [
+            {
+                "label": "A",
+                "text": "A stable perception of an object"
+            },
+            {
+                "label": "B",
+                "text": "A misperception or false perception of reality"
+            },
+            {
+                "label": "C",
+                "text": "The ability to perceive depth accurately"
+            },
+            {
+                "label": "D",
+                "text": "The process of sensory adaptation"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Perceptual illusion refers to a misperception or false perception of an object, leading to incorrect interpretations."
+    },
+    {
+        "question": "Which type of illusion is characterized by consistent errors in perception?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Optical illusions"
+            },
+            {
+                "label": "B",
+                "text": "Auditory illusions"
+            },
+            {
+                "label": "C",
+                "text": "Tactile illusions"
+            },
+            {
+                "label": "D",
+                "text": "Cognitive illusions"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Optical illusions are specific types of visual stimuli that consistently produce errors in perception."
+    },
+    {
+        "question": "What is an example of a visual illusion mentioned in the chapter?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Moon illusion"
+            },
+            {
+                "label": "B",
+                "text": "Depth perception"
+            },
+            {
+                "label": "C",
+                "text": "Auditory hallucinations"
+            },
+            {
+                "label": "D",
+                "text": "Sensory adaptation"
+            }
+        ],
+        "correct": "A",
+        "explanation": "The moon illusion is a well-known visual illusion where the moon appears larger on the horizon than when it is higher in the sky."
+    },
+    {
+        "question": "What are auditory hallucinations?",
+        "options": [
+            {
+                "label": "A",
+                "text": "False perceptions of sounds"
+            },
+            {
+                "label": "B",
+                "text": "Misinterpretations of visual stimuli"
+            },
+            {
+                "label": "C",
+                "text": "Distortions in depth perception"
+            },
+            {
+                "label": "D",
+                "text": "Inability to detect sensory input"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Auditory hallucinations refer to sensory experiences where individuals hear sounds or voices that do not correspond to reality."
+    },
+    {
+        "question": "Which type of delusion involves the belief that one is being persecuted?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Delusion of grandeur"
+            },
+            {
+                "label": "B",
+                "text": "Delusion of reference"
+            },
+            {
+                "label": "C",
+                "text": "Delusion of persecution"
+            },
+            {
+                "label": "D",
+                "text": "Delusion of clarity"
+            }
+        ],
+        "correct": "C",
+        "explanation": "A delusion of persecution is the belief that dangerous enemies are conspiring against or harming the individual."
+    },
+    {
+        "question": "What does a 'delusion of grandeur' entail?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Believing one is of great importance"
+            },
+            {
+                "label": "B",
+                "text": "Interpreting messages as personally relevant"
+            },
+            {
+                "label": "C",
+                "text": "Feeling that others are watching you"
+            },
+            {
+                "label": "D",
+                "text": "Experiencing false perceptions of sounds"
+            }
+        ],
+        "correct": "A",
+        "explanation": "A delusion of grandeur involves the belief that one is unusually important or possesses special powers or abilities."
+    },
+    {
+        "question": "What is meant by 'extra sensory perception' (ESP)?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The ability to perceive through traditional senses"
+            },
+            {
+                "label": "B",
+                "text": "Perception that occurs independently of known sensory processes"
+            },
+            {
+                "label": "C",
+                "text": "The process of sensory adaptation"
+            },
+            {
+                "label": "D",
+                "text": "The ability to perceive depth accurately"
+            }
+        ],
+        "correct": "B",
+        "explanation": "ESP refers to perceptions that occur independently of the known sensory processes, including phenomena like telepathy and clairvoyance."
+    },
+    {
+        "question": "Which phenomenon allows one to 'read minds' according to the concept of ESP?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Clairvoyance"
+            },
+            {
+                "label": "B",
+                "text": "Telepathy"
+            },
+            {
+                "label": "C",
+                "text": "Precognition"
+            },
+            {
+                "label": "D",
+                "text": "Mediumship"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Telepathy is described as the ability to read the thoughts of others and know what they are thinking."
+    },
+    {
+        "question": "What does 'mediumship' refer to in the context of ESP?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The ability to see into the future"
+            },
+            {
+                "label": "B",
+                "text": "The ability to communicate with spirits"
+            },
+            {
+                "label": "C",
+                "text": "The ability to read minds"
+            },
+            {
+                "label": "D",
+                "text": "The perception of hidden messages"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Mediumship is the ability to communicate with the spiritual world and to convey messages from the deceased."
+    },
+    {
+        "question": "What is the process of organizing sensory data into meaningful patterns called?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Sensation"
+            },
+            {
+                "label": "B",
+                "text": "Perception"
+            },
+            {
+                "label": "C",
+                "text": "Transduction"
+            },
+            {
+                "label": "D",
+                "text": "Attention"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Perception is the process that organizes sensory data into meaningful patterns, allowing us to make sense of our environment."
+    },
+    {
+        "question": "Which of the following best defines 'selectivity of perception'?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The ability to perceive all stimuli equally"
+            },
+            {
+                "label": "B",
+                "text": "The process of filtering out irrelevant stimuli"
+            },
+            {
+                "label": "C",
+                "text": "The detection of sensory thresholds"
+            },
+            {
+                "label": "D",
+                "text": "The constant adaptation to stimuli"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Selectivity of perception refers to the process of filtering out irrelevant stimuli and focusing on what is important at any given moment."
+    },
+    {
+        "question": "What does the 'focus' in the field of experience refer to?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Stimuli that are perceived vaguely"
+            },
+            {
+                "label": "B",
+                "text": "The center of attention"
+            },
+            {
+                "label": "C",
+                "text": "Unconscious perceptions"
+            },
+            {
+                "label": "D",
+                "text": "Background noise"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The 'focus' refers to stimuli that are perceived clearly and are the center of an individual’s attention."
+    },
+    {
+        "question": "Which factor is NOT considered an external factor influencing attention?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Size of the object"
+            },
+            {
+                "label": "B",
+                "text": "Brightness of the object"
+            },
+            {
+                "label": "C",
+                "text": "Motivation of the observer"
+            },
+            {
+                "label": "D",
+                "text": "Movement of the object"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Motivation of the observer is an internal factor; external factors include characteristics like size, brightness, and movement of objects."
+    },
+    {
+        "question": "What is the 'law of similarity' in perceptual organization?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The tendency to group items by their proximity"
+            },
+            {
+                "label": "B",
+                "text": "The tendency to perceive similar items as belonging together"
+            },
+            {
+                "label": "C",
+                "text": "The organization of stimuli based on movement"
+            },
+            {
+                "label": "D",
+                "text": "The perception of patterns as complete figures"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The law of similarity states that we tend to group similar items together when perceiving them."
+    },
+    {
+        "question": "Which law states that items close together in space are perceived as a group?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Law of closure"
+            },
+            {
+                "label": "B",
+                "text": "Law of proximity"
+            },
+            {
+                "label": "C",
+                "text": "Law of good figure"
+            },
+            {
+                "label": "D",
+                "text": "Law of continuity"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The law of proximity suggests that items that are close together in space or time are perceived as belonging together or forming an organized group."
+    },
+    {
+        "question": "What does the 'law of continuity' imply in perception?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Perception is based on the similarity of items"
+            },
+            {
+                "label": "B",
+                "text": "We perceive lines as continuing in a smooth path"
+            },
+            {
+                "label": "C",
+                "text": "We fill in gaps in visual stimuli"
+            },
+            {
+                "label": "D",
+                "text": "Objects that overlap are seen as separate"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The law of continuity implies that we perceive lines and patterns as continuing in a smooth and uninterrupted manner."
+    },
+    {
+        "question": "What is an example of a monocular cue for depth perception?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Retinal disparity"
+            },
+            {
+                "label": "B",
+                "text": "Convergence"
+            },
+            {
+                "label": "C",
+                "text": "Texture gradient"
+            },
+            {
+                "label": "D",
+                "text": "Binocular fusion"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Texture gradient is a monocular cue that provides information about distance based on the level of detail visible in textures."
+    },
+    {
+        "question": "What role does 'shading' play in pictorial depth cues?",
+        "options": [
+            {
+                "label": "A",
+                "text": "It helps perceive color differences"
+            },
+            {
+                "label": "B",
+                "text": "It indicates movement"
+            },
+            {
+                "label": "C",
+                "text": "It creates the illusion of three-dimensionality"
+            },
+            {
+                "label": "D",
+                "text": "It enhances auditory perception"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Shading patterns help create the illusion of three-dimensionality by indicating light and shadow."
+    },
+    {
+        "question": "Which concept allows us to perceive an object as unchanged despite variations in sensory input?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Perceptual constancy"
+            },
+            {
+                "label": "B",
+                "text": "Sensory adaptation"
+            },
+            {
+                "label": "C",
+                "text": "Depth perception"
+            },
+            {
+                "label": "D",
+                "text": "Attentional focus"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Perceptual constancy allows us to perceive objects as stable in size, shape, and brightness, even when sensory input changes."
+    },
+    {
+        "question": "What is the primary purpose of perceptual constancy?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To ignore unchanging stimuli"
+            },
+            {
+                "label": "B",
+                "text": "To maintain a stable perception of objects"
+            },
+            {
+                "label": "C",
+                "text": "To enhance sensory adaptation"
+            },
+            {
+                "label": "D",
+                "text": "To detect changes in stimulus intensity"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Perceptual constancy helps maintain a stable perception of objects despite changes in distance, angle, or lighting."
+    },
+    {
+        "question": "What does size constancy allow us to perceive?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Objects as having a constant size despite distance"
+            },
+            {
+                "label": "B",
+                "text": "The brightness of objects in different lighting"
+            },
+            {
+                "label": "C",
+                "text": "The shape of objects from different angles"
+            },
+            {
+                "label": "D",
+                "text": "The color of objects under various conditions"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Size constancy allows us to perceive objects as having a constant size, even when they appear smaller or larger due to changes in distance."
+    },
+    {
+        "question": "Which type of constancy is concerned with the perception of an object's shape?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Color constancy"
+            },
+            {
+                "label": "B",
+                "text": "Brightness constancy"
+            },
+            {
+                "label": "C",
+                "text": "Shape constancy"
+            },
+            {
+                "label": "D",
+                "text": "Size constancy"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Shape constancy refers to the ability to perceive an object as having a constant shape, even when its orientation changes."
+    },
+    {
+        "question": "What does color constancy enable us to do?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Perceive colors as stable under different lighting conditions"
+            },
+            {
+                "label": "B",
+                "text": "Detect changes in color intensity"
+            },
+            {
+                "label": "C",
+                "text": "Recognize patterns in colors"
+            },
+            {
+                "label": "D",
+                "text": "Ignore color differences in stimuli"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Color constancy allows us to perceive colors as stable, even when the lighting conditions change, affecting how colors are viewed."
+    },
+    {
+        "question": "Which of the following is an example of brightness constancy?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Perceiving a white paper as white in bright and dim light"
+            },
+            {
+                "label": "B",
+                "text": "Seeing a red apple as red regardless of distance"
+            },
+            {
+                "label": "C",
+                "text": "Recognizing a door as rectangular from various angles"
+            },
+            {
+                "label": "D",
+                "text": "Identifying a song regardless of volume changes"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Brightness constancy allows us to perceive an object, such as a white paper, as white regardless of changes in illumination."
+    },
+    {
+        "question": "What is an example of a perceptual illusion?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Seeing a white dress as white in different lights"
+            },
+            {
+                "label": "B",
+                "text": "The Müller-Lyer illusion"
+            },
+            {
+                "label": "C",
+                "text": "Recognizing a familiar face"
+            },
+            {
+                "label": "D",
+                "text": "Perceiving depth in a photograph"
+            }
+        ],
+        "correct": "B",
+        "explanation": "The Müller-Lyer illusion is a classic example of a perceptual illusion where two lines of equal length appear to be different lengths due to the orientation of arrowheads."
+    },
+    {
+        "question": "What is the main factor that contributes to perceptual illusions?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Physical distance"
+            },
+            {
+                "label": "B",
+                "text": "Cognitive biases and context"
+            },
+            {
+                "label": "C",
+                "text": "Sensory adaptation"
+            },
+            {
+                "label": "D",
+                "text": "Environmental changes"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Perceptual illusions often arise from cognitive biases and context, which influence how we interpret sensory information."
+    },
+    {
+        "question": "Which phenomenon describes the misperception of the distance of an object?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Depth perception"
+            },
+            {
+                "label": "B",
+                "text": "Visual illusion"
+            },
+            {
+                "label": "C",
+                "text": "Size constancy"
+            },
+            {
+                "label": "D",
+                "text": "Perceptual constancy"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Visual illusions can lead to misperceptions regarding the distance of objects, as our brains interpret sensory input based on context."
+    },
+    {
+        "question": "Which of the following is a factor that can affect perceptual constancy?",
+        "options": [
+            {
+                "label": "A",
+                "text": "The color of the object"
+            },
+            {
+                "label": "B",
+                "text": "The distance of the object"
+            },
+            {
+                "label": "C",
+                "text": "The background against which the object is viewed"
+            },
+            {
+                "label": "D",
+                "text": "All of the above"
+            }
+        ],
+        "correct": "D",
+        "explanation": "All of these factors—color, distance, and background—can influence how we perceive constancy in size, shape, and color."
+    },
+    {
+        "question": "What is the relationship between sensory adaptation and perceptual constancy?",
+        "options": [
+            {
+                "label": "A",
+                "text": "They are the same process"
+            },
+            {
+                "label": "B",
+                "text": "Sensory adaptation enhances perceptual constancy"
+            },
+            {
+                "label": "C",
+                "text": "Perceptual constancy reduces the effects of sensory adaptation"
+            },
+            {
+                "label": "D",
+                "text": "They are unrelated processes"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Sensory adaptation can enhance perceptual constancy by allowing individuals to ignore unchanging stimuli and focus on relevant changes."
+    },
+    {
+        "question": "What is the main function of attention in perception?",
+        "options": [
+            {
+                "label": "A",
+                "text": "To enhance sensory adaptation"
+            },
+            {
+                "label": "B",
+                "text": "To select specific stimuli for further processing"
+            },
+            {
+                "label": "C",
+                "text": "To filter out all sensory information"
+            },
+            {
+                "label": "D",
+                "text": "To maintain perceptual constancy"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Attention serves to select specific stimuli for further cognitive processing, allowing us to focus on what is most relevant."
+    },
+    {
+        "question": "Which type of attention is directed towards stimuli that are unexpected or novel?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Selective attention"
+            },
+            {
+                "label": "B",
+                "text": "Sustained attention"
+            },
+            {
+                "label": "C",
+                "text": "Divided attention"
+            },
+            {
+                "label": "D",
+                "text": "Bottom-up attention"
+            }
+        ],
+        "correct": "D",
+        "explanation": "Bottom-up attention refers to the automatic focus on stimuli that are unexpected or novel, drawing our attention involuntarily."
+    },
+    {
+        "question": "What does selective attention allow an individual to do?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Process all sensory information equally"
+            },
+            {
+                "label": "B",
+                "text": "Focus on specific stimuli while ignoring others"
+            },
+            {
+                "label": "C",
+                "text": "Adapt to constant stimuli over time"
+            },
+            {
+                "label": "D",
+                "text": "Perceive depth and distance accurately"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Selective attention allows individuals to focus on specific stimuli in their environment while filtering out distractions."
+    },
+    {
+        "question": "What is the term for the ability to divide attention between multiple tasks?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Divided attention"
+            },
+            {
+                "label": "B",
+                "text": "Sustained attention"
+            },
+            {
+                "label": "C",
+                "text": "Selective attention"
+            },
+            {
+                "label": "D",
+                "text": "Focused attention"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Divided attention refers to the ability to allocate cognitive resources to multiple tasks simultaneously."
+    },
+    {
+        "question": "Which of the following is an example of focused attention?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Listening to music while studying"
+            },
+            {
+                "label": "B",
+                "text": "Focusing on a conversation in a crowded room"
+            },
+            {
+                "label": "C",
+                "text": "Watching a movie while texting"
+            },
+            {
+                "label": "D",
+                "text": "Noticing background noise while reading"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Focusing on a conversation in a crowded room exemplifies focused attention, where one concentrates on a specific stimulus amidst distractions."
+    },
+    {
+        "question": "What role does motivation play in attention?",
+        "options": [
+            {
+                "label": "A",
+                "text": "It has no effect on attention"
+            },
+            {
+                "label": "B",
+                "text": "It determines what stimuli are chosen for attention"
+            },
+            {
+                "label": "C",
+                "text": "It enhances sensory adaptation"
+            },
+            {
+                "label": "D",
+                "text": "It distracts from relevant stimuli"
+            }
+        ],
+        "correct": "B",
+        "explanation": "Motivation influences attention by determining which stimuli are prioritized based on their relevance to an individual's needs or goals."
+    },
+    {
+        "question": "Which phenomenon describes the difficulty of noticing changes in a visual scene?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Change blindness"
+            },
+            {
+                "label": "B",
+                "text": "Inattentional blindness"
+            },
+            {
+                "label": "C",
+                "text": "Motion parallax"
+            },
+            {
+                "label": "D",
+                "text": "Sensory overload"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Change blindness is the phenomenon where individuals fail to notice changes in a visual scene, often due to a lack of attention."
+    },
+    {
+        "question": "What is 'inattentional blindness'?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Failure to notice unexpected stimuli while focused on a task"
+            },
+            {
+                "label": "B",
+                "text": "The inability to perceive depth accurately"
+            },
+            {
+                "label": "C",
+                "text": "Noticing all stimuli in the environment"
+            },
+            {
+                "label": "D",
+                "text": "The tendency to perceive similar items as a group"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Inattentional blindness occurs when individuals fail to notice unexpected stimuli in their visual field while concentrating on a specific task."
+    },
+    {
+        "question": "Which type of attention is often required during tasks that require prolonged focus?",
+        "options": [
+            {
+                "label": "A",
+                "text": "Sustained attention"
+            },
+            {
+                "label": "B",
+                "text": "Divided attention"
+            },
+            {
+                "label": "C",
+                "text": "Selective attention"
+            },
+            {
+                "label": "D",
+                "text": "Focused attention"
+            }
+        ],
+        "correct": "A",
+        "explanation": "Sustained attention is necessary for tasks that require continuous focus and concentration over an extended period."
+    },
+    {
+        "question": "What impact does multitasking have on attention?",
+        "options": [
+            {
+                "label": "A",
+                "text": "It enhances cognitive efficiency"
+            },
+            {
+                "label": "B",
+                "text": "It has no effect on performance"
+            },
+            {
+                "label": "C",
+                "text": "It may lead to decreased performance on tasks"
+            },
+            {
+                "label": "D",
+                "text": "It improves memory retention"
+            }
+        ],
+        "correct": "C",
+        "explanation": "Multitasking can lead to decreased performance on tasks because dividing attention reduces the cognitive resources available for each task."
+    },
+        {
+            "question": "What is the primary role of sensory receptors?",
+            "options": [
+                {"label": "A", "text": "To process information in the brain"},
+                {"label": "B", "text": "To convert physical stimuli into neural signals"},
+                {"label": "C", "text": "To organize sensory input"},
+                {"label": "D", "text": "To filter out irrelevant stimuli"}
+            ],
+            "correct": "B",
+            "explanation": "Sensory receptors are specialized cells that convert physical stimuli from the environment into neural signals for processing by the brain."
+        },
+        {
+            "question": "Which type of receptor is responsible for detecting light?",
+            "options": [
+                {"label": "A", "text": "Photoreceptors"},
+                {"label": "B", "text": "Mechanoreceptors"},
+                {"label": "C", "text": "Chemoreceptors"},
+                {"label": "D", "text": "Thermoreceptors"}
+            ],
+            "correct": "A",
+            "explanation": "Photoreceptors are specialized sensory receptors in the eyes that detect light and are crucial for vision."
+        },
+        {
+            "question": "What is the function of mechanoreceptors?",
+            "options": [
+                {"label": "A", "text": "To detect changes in temperature"},
+                {"label": "B", "text": "To respond to chemical stimuli"},
+                {"label": "C", "text": "To sense pressure and vibration"},
+                {"label": "D", "text": "To perceive light intensity"}
+            ],
+            "correct": "C",
+            "explanation": "Mechanoreceptors respond to mechanical pressure or distortion, allowing us to sense touch, pressure, and vibration."
+        },
+        {
+            "question": "Which type of sensory receptor detects changes in chemical concentrations?",
+            "options": [
+                {"label": "A", "text": "Photoreceptors"},
+                {"label": "B", "text": "Chemoreceptors"},
+                {"label": "C", "text": "Thermoreceptors"},
+                {"label": "D", "text": "Nociceptors"}
+            ],
+            "correct": "B",
+            "explanation": "Chemoreceptors detect changes in chemical concentrations, playing a key role in taste and smell."
+        },
+        {
+            "question": "What is the role of thermoreceptors?",
+            "options": [
+                {"label": "A", "text": "To detect pain"},
+                {"label": "B", "text": "To sense temperature changes"},
+                {"label": "C", "text": "To perceive light"},
+                {"label": "D", "text": "To respond to sound vibrations"}
+            ],
+            "correct": "B",
+            "explanation": "Thermoreceptors are responsible for detecting changes in temperature, providing the sensation of hot and cold."
+        },
+        {
+            "question": "Which part of the eye contains photoreceptors?",
+            "options": [
+                {"label": "A", "text": "Cornea"},
+                {"label": "B", "text": "Retina"},
+                {"label": "C", "text": "Lens"},
+                {"label": "D", "text": "Iris"}
+            ],
+            "correct": "B",
+            "explanation": "The retina is the part of the eye that contains photoreceptors, specifically rods and cones, which are essential for vision."
+        },
+        {
+            "question": "What are rods and cones responsible for in vision?",
+            "options": [
+                {"label": "A", "text": "Color perception"},
+                {"label": "B", "text": "Night vision and light sensitivity"},
+                {"label": "C", "text": "Depth perception"},
+                {"label": "D", "text": "Peripheral vision"}
+            ],
+            "correct": "B",
+            "explanation": "Rods are responsible for night vision and detecting light intensity, while cones are responsible for color perception and detail in bright light."
+        },
+        {
+            "question": "How do sensory receptors adapt to prolonged stimulation?",
+            "options": [
+                {"label": "A", "text": "By enhancing sensitivity"},
+                {"label": "B", "text": "By becoming less responsive"},
+                {"label": "C", "text": "By increasing neural signaling"},
+                {"label": "D", "text": "By changing their physical structure"}
+            ],
+            "correct": "B",
+            "explanation": "Sensory receptors adapt to prolonged stimulation by becoming less responsive, allowing the organism to focus on changes in the environment."
+        },
+        {
+            "question": "What is the significance of sensory adaptation?",
+            "options": [
+                {"label": "A", "text": "To maintain constant awareness of all stimuli"},
+                {"label": "B", "text": "To ignore constant stimuli and respond to new changes"},
+                {"label": "C", "text": "To enhance the perception of familiar stimuli"},
+                {"label": "D", "text": "To improve memory retention"}
+            ],
+            "correct": "B",
+            "explanation": "Sensory adaptation is significant because it allows individuals to ignore constant stimuli and focus on new changes, improving attention and responsiveness."
+        },
+        {
+            "question": "Which term describes the minimum difference between two stimuli required for detection 50% of the time?",
+            "options": [
+                {"label": "A", "text": "Absolute threshold"},
+                {"label": "B", "text": "Just noticeable difference (JND)"},
+                {"label": "C", "text": "Sensory threshold"},
+                {"label": "D", "text": "Signal detection"}
+            ],
+            "correct": "B",
+            "explanation": "The just noticeable difference (JND) is the minimum difference between two stimuli required for detection 50% of the time."
+        }
+    
+]
